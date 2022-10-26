@@ -4,5 +4,7 @@ This is the first file in this repo.
 
 ## Website contents
 
-1. indec.html
+here is the file for the website
+
+1. index.html
 
